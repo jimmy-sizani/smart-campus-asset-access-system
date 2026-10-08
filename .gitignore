@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+config.py
+.env
+.env.*
+secrets.py
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+build/
+dist/
+*.elf
+*.hex
+*.bin
+*.log
