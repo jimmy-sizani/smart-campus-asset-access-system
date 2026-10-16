@@ -2,13 +2,13 @@
 
 A Raspberry Pi Pico/Pico W embedded prototype for controlling and monitoring access to shared campus equipment.
 
-The system uses a 3-bit binary input to simulate user identification. Authorised codes can unlock a servo-controlled cabinet, while unauthorised attempts trigger denial feedback. Access attempts can be logged, equipment usage can be counted for maintenance monitoring, and the Pico W can provide a foundation for remote monitoring over Wi-Fi.
+The system uses a 3 bit binary input to simulate user identification. Authorised codes can unlock a servo-controlled cabinet, while unauthorised attempts trigger denial feedback. Access attempts can be logged, equipment usage can be counted for maintenance monitoring, and the Pico W can provide a foundation for remote monitoring over Wi-Fi.
 
 > **Portfolio note:** This repository presents the technical prototype and documentation in a project-focused format. It does not reproduce the original university assessment questions or marking material.
 
 ## Features
 
-- 3-bit binary access-code input
+- 3-bit binary access code input
 - Authorised/unauthorised user validation
 - Servo-controlled cabinet lock
 - Green LED for authorised access
